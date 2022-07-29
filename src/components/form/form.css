@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    margin-top: 20px;
+}
+
+.form-control{
+    width: 300px; 
+    margin:5px 
+}
+.btn{
+    height: 42px;
+    margin-top: 45px;
+    margin-right: 10px
+}
